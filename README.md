@@ -24,6 +24,8 @@
 | [Custom Login Page](https://github.com/taichuy/nocobase-plugin-login-lite)                                                                 | Custom Login Page Configuration Plugin for NocoBase (Lite Version). This plugin allows you to customize the appearance and behavior of the NocoBase login page directly from the admin panel.                                                                                                                                                                                   |
 | [Block: Tabs](https://github.com/vokylin/plugin-block-tabs)                                                                                | A powerful NocoBase plugin that provides tabbed interface components for organizing multiple blocks, reducing page scrolling and improving content organization.                                                                                                                                                                                                                |
 
+| [Role Switcher](https://github.com/michaelxmn/plugin-role-switcher)                                                                                | A NocoBase plugin that adds a **Role Switcher** to the top navigation bar, making role switching faster and easier to discover.                                                                                         |
+
 ## Contributing
 
 Contributions are welcome. Please keep this list focused on NocoBase resources.
